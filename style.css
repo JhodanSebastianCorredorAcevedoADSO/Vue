@@ -1,7 +1,5 @@
-.error{
-    background-color: #09d35d;
-    color: #fff;
-    font-family: sans-serif;
-    padding: .5rem;
-    border-radius: .3rem;
+th, td{
+    border: .1em solid #000;
+    text-align: center;
+    font-size: 30px;
 }
